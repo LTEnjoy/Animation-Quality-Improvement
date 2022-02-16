@@ -40,8 +40,8 @@
 
 原始资源：
 
-![img](C:\Users\15716\lib\常用信息\I4IVCDQ}23[INW$CVN_9NND.png)
+![img](/comparison/ori_死亡笔记.png)
 
 画质提升后：
 
-![QQ图片20220216095426](C:\Users\15716\lib\常用信息\QQ图片20220216095426.png)
+![QQ图片20220216095426](/comparison/out_死亡笔记.png)
