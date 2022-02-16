@@ -28,13 +28,13 @@
 
 ### 悬疑类
 
-[死亡笔记](死亡笔记)
+[死亡笔记](#死亡笔记)
 
 ## 网盘链接
 
 ### 死亡笔记
 
-链接：https://pan.baidu.com/s/1lBw3xn5r-pZ1hu_pmXCQRw    94jo
+链接：https://pan.baidu.com/s/1lBw3xn5r-pZ1hu_pmXCQRw	提取码：94jo
 
 由于原始资源已经是1080p，所以画质提升后的效果可能不会太明显（但依然能看出来差别）
 
