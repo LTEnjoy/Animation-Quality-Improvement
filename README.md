@@ -10,6 +10,8 @@
 
 [Real-CUGAN神经网络模型](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
+模型参数：up2x-latest-denoise3x.pth。番剧画质提升后为2K分辨率。
+
 关于模型的详细信息请移步B站ailab开源的仓库。
 
 ### 注意事项
@@ -40,7 +42,7 @@
 
 链接：https://pan.baidu.com/s/1lBw3xn5r-pZ1hu_pmXCQRw	提取码：94jo
 
-由于原始资源已经是1080p，所以画质提升后的效果可能不会太明显（但依然能看出来差别）
+原始资源是720p，画质提升后是2k分辨率。
 
 原始资源：
 
