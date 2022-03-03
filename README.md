@@ -1,6 +1,7 @@
 # 基于**Real-CUGAN**的番剧画质提升
 
-最新编辑日期：2022/03/02
+最新编辑日期：2022/03/03
+
 有疑问请邮件交流：sujinltenjoy@gmail.com
 
 ### 目的
@@ -11,7 +12,7 @@
 
 [Real-CUGAN神经网络模型](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-模型参数：up2x-latest-denoise3x.pth。番剧画质提升后为2K分辨率。
+番剧画质提升后为2K分辨率。
 
 关于模型的详细信息请移步B站ailab开源的仓库。
 
@@ -37,6 +38,10 @@
 
 [永生之酒](#永生之酒)
 
+### 异世界类
+
+[无职转生](#无职转生)
+
 ## 网盘链接
 
 ### 死亡笔记
@@ -52,6 +57,7 @@
 画质提升后：
 
 ![QQ图片20220216095426](/comparison/out_死亡笔记.png)
+
 ### 永生之酒
 
 链接：https://pan.baidu.com/s/1JOY0msy-CSv0KjSLXW8s8Q	 提取码：a4r4
@@ -63,3 +69,17 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 画质提升后：
 
 ![out_永生之酒](/comparison/out_永生之酒.png)
+
+#### 无职转生
+
+链接：https://pan.baidu.com/s/1ygNQtocqST4-nYH84qHINQ	 提取码：b3hz
+
+在AGE网站上找的版本。原版前几集是720P，后面是1080P。
+
+原始资源：
+
+![img](/comparison/ori_无职转生.png)
+
+画质提升后：
+
+![QQ图片20220216095426](/comparison/out_无职转生.png)
