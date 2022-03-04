@@ -73,6 +73,7 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 #### 无职转生
 
 第一季链接：https://pan.baidu.com/s/1ygNQtocqST4-nYH84qHINQ	 提取码：b3hz
+
 第二季链接：https://pan.baidu.com/s/1kB6xEj-vLM0g0PoH6YTq2w  提取码: zjrn
 
 对比图由于是截图下来的，所以直接看可能看不出区别，如果单击查看图片就能发现清晰了许多。
