@@ -100,7 +100,8 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 
 ##### 暗杀教室
 
-链接：https://pan.baidu.com/s/1A04dykSuFZ_N-aLxe5OTOg   提取码：n220
+第一季链接：https://pan.baidu.com/s/1A04dykSuFZ_N-aLxe5OTOg   提取码：n220
+第二季链接: https://pan.baidu.com/s/1kycXmP5J23l-yXq9hORMVg   提取码: u7nc
 
 资源来自樱花动漫。强推这部集搞笑热血感人于一身的动漫！趁着这次提升画质的功夫再三刷一遍。
 
