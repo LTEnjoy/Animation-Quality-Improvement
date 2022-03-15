@@ -46,8 +46,6 @@
 
 链接：https://pan.baidu.com/s/1lBw3xn5r-pZ1hu_pmXCQRw	提取码：94jo
 
-原始资源是720p，画质提升后是2k分辨率。
-
 原始资源：
 
 ![img](/comparison/ori_死亡笔记.png)
