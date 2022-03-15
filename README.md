@@ -12,7 +12,7 @@
 
 [Real-CUGAN神经网络模型](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-番剧画质提升后为2K分辨率。
+番剧画质提升后为2.5K分辨率（2560\*1440）。
 
 关于模型的详细信息请移步B站ailab开源的仓库。
 
