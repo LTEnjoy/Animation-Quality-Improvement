@@ -1,6 +1,6 @@
 # 基于**Real-CUGAN**的番剧画质提升
 
-最新编辑日期：2022/03/07
+最新编辑日期：2022/03/16
 
 有疑问请邮件交流：sujinltenjoy@gmail.com
 
@@ -39,6 +39,8 @@
 [末日三问](#末日三问)
 
 [暗杀教室](#暗杀教室)
+
+[恋如雨止](#恋如雨止)
 
 ## 网盘链接
 
@@ -96,7 +98,7 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 
 ![QQ图片20220216095426](/comparison/out_末日三问.png)
 
-##### 暗杀教室
+#### 暗杀教室
 
 第一季链接：https://pan.baidu.com/s/1A04dykSuFZ_N-aLxe5OTOg   提取码：n220
 
@@ -113,4 +115,18 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 画质提升后：
 
 ![QQ图片20220216095426](/comparison/out_暗杀教室.png)
+
+#### 恋如雨止
+
+链接: https://pan.baidu.com/s/18F-M44cUXldYfI5A9ywkBQ 	提取码: n9ui
+
+来自AGE网站720P资源。
+
+原始资源：
+
+![img](/comparison/ori_恋如雨止.png)
+
+画质提升后：
+
+![QQ图片20220216095426](/comparison/out_恋如雨止.png)
 
