@@ -1,6 +1,6 @@
 # 基于**Real-CUGAN**的番剧画质提升
 
-最新编辑日期：2022/03/16
+最新编辑日期：2022/04/07
 
 有疑问请邮件交流：sujinltenjoy@gmail.com
 
@@ -41,6 +41,8 @@
 [暗杀教室](#暗杀教室)
 
 [恋如雨止](#恋如雨止)
+
+[朋友游戏](#朋友游戏)
 
 ## 网盘链接
 
@@ -129,4 +131,18 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 画质提升后：
 
 ![QQ图片20220216095426](/comparison/out_恋如雨止.png)
+
+#### 朋友游戏
+
+链接: https://pan.baidu.com/s/1FVEtm8Qkdhn7l3vsAtTCyg 	提取码: 36vz 
+
+来自AGE网站720P资源。
+
+原始资源：
+
+![img](/comparison/ori_朋友游戏.png)
+
+画质提升后：
+
+![QQ图片20220216095426](/comparison/out_朋友游戏.png)
 
