@@ -1,6 +1,6 @@
 # 基于**Real-CUGAN**的番剧画质提升
 
-最新编辑日期：2022/04/09
+最新编辑日期：2022/04/19
 
 有疑问请邮件交流：sujinltenjoy@gmail.com
 
@@ -42,9 +42,7 @@
 
 [恋如雨止](#恋如雨止)
 
-[朋友游戏](#朋友游戏)
-
-[恋爱要在世界征服后](#恋爱要在世界征服后)
+[夏日重现](#夏日重现)
 
 ## 网盘链接
 
@@ -134,33 +132,18 @@ B站版本：![ori_永生之酒](/comparison/ori_永生之酒.png)
 
 ![QQ图片20220216095426](/comparison/out_恋如雨止.png)
 
-#### 朋友游戏
-
-链接: https://pan.baidu.com/s/1FVEtm8Qkdhn7l3vsAtTCyg 	提取码: 36vz 
-
-来自AGE网站720P资源。
-
-原始资源：
-
-![img](/comparison/ori_朋友游戏.png)
-
-画质提升后：
-
-![QQ图片20220216095426](/comparison/out_朋友游戏.png)
 
 
+#### 夏日重现
 
-#### 恋爱要在世界征服后
-
-链接: https://pan.baidu.com/s/1VvdyQDpzS9ljtUvkbCDhgw 	提取码: qcwn 
+链接: https://pan.baidu.com/s/14x8KuZ2P61dfs_hRWKHRlQ 	提取码: r7cg
 
 目前的资源是480P的，因此采用了3倍超分辨率提升。提升后的画质为2.5K，但由于原始资源限制，会有部分画面稍微模糊一些。
 
 原始资源：
 
-![img](/comparison/ori_恋爱要在世界征服后.png)
+![img](/comparison/ori_夏日重现.png)
 
 画质提升后：
 
-![QQ图片20220216095426](/comparison/out_恋爱要在世界征服后.png)
-
+![QQ图片20220216095426](/comparison/out_夏日重现.png)
